@@ -1,10 +1,10 @@
-# Masai School Construct Week Project
+ Construct 15 DAYS Project
 
-Welcome, we're are team “Timely”, and this Readme contains details about our project. We‘ve built a cloned website of Timelyapp.com  This overall project was a part of our construct week at Masai School.
+Welcome, we're are team “Timely”, and this Readme contains details about our project. We‘ve built a cloned website of Timelyapp.com  This overall project was a part of our construct 15 DAYS CHALLENGE
 
 
 ## About Project
- Timely is an award-winning, AI-powered time tracking software that automates company time tracking and timesheet creation.
+ Timely is an award-winning, time tracking software that automates company time tracking and timesheet creation.
 <br />
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ED1C5.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -39,15 +39,14 @@ Welcome, we're are team “Timely”, and this Readme contains details about our
 
 
 ## 🔗 Team Members
-    1. Shashank Nath
+    1. Puneet Chaubey
+    
+    2. Saubhagya Maurya
+    
+    
+    3.Riya Girish Shah -Team Lead
 
-    2. Aun Mohammad
-
-    3. Arjun Singh Bhakuni
-
-    4. Puneet Chaubey
-
-    5. Riya Girish Shah -Team Lead
+   
 
 
  
