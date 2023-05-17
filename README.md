@@ -43,8 +43,7 @@ Welcome, we're are team “Timely”, and this Readme contains details about our
     
     2. Saubhagya Maurya
     
-    
-    3.Riya Girish Shah -Team Lead
+     3.Riya Girish Shah -Team Lead
 
    
 
